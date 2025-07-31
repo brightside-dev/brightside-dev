@@ -8,4 +8,4 @@ Back-end Developer at [Genius Sports](https://www.geniussports.com/);<br>
 - 🧰 Tools & Frameworks: `aws`, `symfony`, `laravel`, `vuejs`
 - ⚠️ Interest:  `.go`, `.cs`, `.dart`, `docker`, `flutter`
 - 👷‍♂️ Building: ultimate-netball-game-hub
-- 💬 `talk` me about  **fantasy sports**, **F1**, **Boxing**, **AFL**, **F1**, **Boxing**, 
+- 💬 `talk` me about  **fantasy sports**, **php**, **AFL**, **F1**, **Boxing**, 
