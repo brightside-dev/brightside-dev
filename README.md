@@ -2,6 +2,8 @@
 
 #### A back-end developer by day 👨‍💻 and a full-stack ninja by night 🥷🏼
 
+Resume: https://brightside-dev.github.io/ <br>
+
 Creator of [NetballHub](https://netballhub.com/)<br>
 Back-end Developer at [Genius Sports](https://www.geniussports.com/)<br>
 
