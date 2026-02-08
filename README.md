@@ -5,12 +5,15 @@
 Resume: https://brightside-dev.github.io/ <br>
 
 **Creator of:** [NetballHub](https://netballhub.com/)<br>
-**Current:** <br>
-- Senior Software Engineer at [Paperly](https://paperly.education/)<br>
-**Past:** <br>
-- Software Engineer at [Genius Sports](https://www.geniussports.com/)<br>
+
+**Current:**
+- Senior Software Engineer at [Paperly](https://paperly.education/)
+
+**Past:** 
+- Software Engineer at [Genius Sports](https://www.geniussports.com/)
 - Software Engineer at [Aussie Broadband](https://www.aussiebroadband.com.au/)<br>
 
+**Tech:**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `linux`, `macos`
 - 🧰 Tools & Frameworks: `aws`, `symfony`, `laravel`, `vuejs`
 - ⚠️ Interest:  `.go`, `.cs`, `.dart`, `docker`, `flutter`
