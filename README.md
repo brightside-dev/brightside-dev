@@ -8,6 +8,7 @@ Resume: https://brightside-dev.github.io/ <br>
 
 **Current:**
 - Senior Software Engineer at [Paperly](https://paperly.education/)
+- Co-Founder at [Ronin Studio](https://roninstudio.com.au)
 
 **Past:** 
 - Software Engineer at [Genius Sports](https://www.geniussports.com/)
