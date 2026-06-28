@@ -17,7 +17,7 @@ Resume: https://brightside-dev.github.io/ <br>
 **Tech:**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `linux`, `macos`
 - 🧰 Tools & Frameworks: `aws`, `symfony`, `laravel`, `vuejs`
-- ⚠️ Interest:  `.go`, `.cs`, `.dart`, `docker`, `flutter`
+- ⚠️ Interest:  `.swift`, `.go`, `.cs`, `.dart`, `docker`, `flutter`
 
 <br>
 
